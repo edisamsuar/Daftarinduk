@@ -1,5 +1,7 @@
 function confirmCredentials() {
-    const correctUsername = "AdminBBS"; // Ganti dengan username yang benar
+    const correctUsername = "nurul-alfalah"; // Ganti dengan username yang benar
+    const correctPin = "3592"; // Ganti dengan PIN yang benar
+    const correctUsername = "hafizatunnafisah"; // Ganti dengan username yang benar
     const correctPin = "3592"; // Ganti dengan PIN yang benar
 
     const enteredUsername = document.getElementById("username").value;
